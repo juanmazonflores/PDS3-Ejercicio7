@@ -12,7 +12,7 @@ export default {
   },
   data(){
     return{
-      items:['shiva', 'krishna', 'ram', 'madhav']
+      items:['Leche', 'Pan Integral', 'Carne', 'Lentejas']
     }
   }
 }
@@ -32,7 +32,5 @@ export default {
 img{
   height: 200px;
 }
-.hello{
-  align-items: center;
-}
+
 </style>
